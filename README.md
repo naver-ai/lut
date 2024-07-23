@@ -22,11 +22,11 @@ Official PyTorch implementation of LUT "Learning with Unmasked Tokens Drives Str
 
 ## Citation
 ```
-@article{kim2023lut,
-  title={Learning with Unmasked Tokens Drives Stronger Vision Learners},
-  author={Kim, Taekyung and Chun, Sanghyuk and Heo, Byeongho and Han, Dongyoon},
-  journal={arXiv preprint arXiv:2310.13593},
-  year={2023}
+@article{kim2024lut,
+    title={Learning with Unmasked Tokens Drives Stronger Vision Learners},
+    author={Kim, Taekyung and Chun, Sanghyuk and Heo, Byeongho and Han, Dongyoon},
+    year={2024},
+    booktitle={European Conference on Computer Vision (ECCV)},
 }
 ```
 
