@@ -1,11 +1,11 @@
-## Learning with Unmasked Tokens Drives Stronger Vision Learners | [[ECCV 2024]](https://arxiv.org/abs/2310.13593v2)
+## Learning with Unmasked Tokens Drives Stronger Vision Learners | [[ECCV 2024]](https://arxiv.org/abs/2310.13593)
 
 [Taekyung Kim*](https://scholar.google.co.kr/citations?user=u-9bdkwAAAAJ&hl=en), [Sanghyuk Chun](https://sanghyukchun.github.io/home), [Byeongho Heo](https://sites.google.com/view/byeongho-heo/home), [Dongyoon Han*](https://sites.google.com/site/dyhan0920/) <br>
 <sub> (*equal contribution) <br>
 
 [NAVER AI LAB](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab)
 
-Official PyTorch implementation of LUT "Learning with Unmasked Tokens Drives Stronger Vision Learners" | [arxiv](https://arxiv.org/abs/2310.13593v3).
+Official PyTorch implementation of LUT "Learning with Unmasked Tokens Drives Stronger Vision Learners" | [arxiv](https://arxiv.org/abs/2310.13593).
 <br>
 
 ### Abstract
